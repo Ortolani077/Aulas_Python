@@ -1,0 +1,6 @@
+n1=float (input( 'Insira a nota do primeiro semestre:'))
+n2=float(input('Insira a nota do segundo semestre'))
+print(f'A nota do primeiro semestre é', n1, 'e a nota do segundo semestre é', n2 )
+som=float (n1+n2)
+med=(som/2)
+print(f'A média das duas notas é:', med)

@@ -1,0 +1,5 @@
+n1=int (input('Digite um número'))
+ant=(n1-1)
+print(f'O número antecessor de', n1,'é o' , ant)
+suc=(n1+1)
+print(f'E o seu sucessor é', suc)
